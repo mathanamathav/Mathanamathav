@@ -12,15 +12,19 @@ I'm an <b>student</b> at <a href="https://www.psgtech.edu/"> <b>PSG College of T
  -->
 <br>
 <a href="https://github.com/mathanamathav">
-
+ 
 [![GIT STAT](https://github-readme-stats.vercel.app/api?username=mathanamathav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues)](https://github.com/mathanamathav)
-</a><br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanamathav&theme=dark)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathanamathav&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/mathanamathav)
 
+
+
 <br>
 
-
+<!-- 
 <div id="tech"></div>
 
 ## 💻 Things I know
@@ -78,7 +82,7 @@ I'm an <b>student</b> at <a href="https://www.psgtech.edu/"> <b>PSG College of T
    <a href="mailto:asmathav01@gmail.com"><img alt="mail" title="mail" src="https://github.com/soilshubham/soilshubham/blob/main/icons/gmail.svg" width=20px/></a>
 </p>
 <br>
-
+ -->
 -----
 Credits: [soilshubham](https://github.com/soilshubham)
 
