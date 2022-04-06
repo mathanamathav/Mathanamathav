@@ -2,28 +2,32 @@
 
 <!-- <img src="https://github.com/soilshubham/soilshubham/blob/main/github%20banner.jpg" alt="sahil's banner" width=100%>
  -->
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathanamathav&label=Profile%20views&color=0e75b6&style=flat" alt="mathanamathav"/> </p>
+
+
 ## :raising_hand: About me:
 I'm an <b>student</b> at <a href="https://www.psgtech.edu/"> <b>PSG College of Technology</b></a>.<br>
+I’m currently learning everything about **Deeplearning**.<br>
 <!-- 
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
+◽ 
  -->
 <br>
 <a href="https://github.com/mathanamathav">
  
-[![GIT STAT](https://github-readme-stats.vercel.app/api?username=mathanamathav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues)](https://github.com/mathanamathav)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanamathav&theme=dark)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathanamathav&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/mathanamathav)
-
-
+ <p>
+  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=mathanamathav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide=contribs,issues" alt="mathanamathav" />
+  
+  
+  <img align="left" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mathanamathav&theme=dark&hide_border=true" alt="mathanamathav" />
+  
+  
+  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathanamathav&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript" alt="mathanamathav" />
+</p>
 
 <br>
-
+ 
 <!-- 
 <div id="tech"></div>
 
@@ -83,7 +87,3 @@ I'm an <b>student</b> at <a href="https://www.psgtech.edu/"> <b>PSG College of T
 </p>
 <br>
  -->
------
-Credits: [soilshubham](https://github.com/soilshubham)
-
-Last Edited on: 24/12/2021
