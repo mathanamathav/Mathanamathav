@@ -12,8 +12,11 @@ I'm a <b>student</b> at <a href="https://www.psgtech.edu/"> <b>PSG College of Te
 
 Here are some of the projects I've worked on:
 
-- [X] Bunker API :  A Webapp/API to see the attendance recorded in your college website along with how many days you can take days off OR to attend class -> [link](https://github.com/mathanamathav/bunker-api).
-- [X] Doodle Draw : A Webapp game built using Django Framework, that predicts the drawings of the user drawn on the painting canvas in real time, using a CNN model in the backend -> [link](https://github.com/mathanamathav/doodledraw).
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=mathanamathav&repo=bunker-api&theme=dark" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=mathanamathav&repo=doodledraw&theme=dark" /></p> -->
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=NASSCOM-Capgemini-Hackathon&repo=AQI-Heatwave-Forecaster-Application&theme=dark" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=mathanamathav&repo=socialnetwork&theme=dark" /></p>
+ -->
 
 ## Languages and Tools:
 
@@ -23,9 +26,9 @@ Here are some of the projects I've worked on:
 
 <a href="https://github.com/mathanamathav">
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mathanamathav&show_icons=true&locale=en&layout=compact&theme=dark" alt="mathanamathav" /></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathanamathav&layout=compact&hide_progress=true&theme=dark" alt="mathanamathav" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mathanamathav&show_icons=true&locale=en&theme=dark" alt="mathanamathav" /></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mathanamathav&&show_icons=true&theme=dark" alt="mathanamathav" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanamathav&&theme=dark" alt="mathanamathav" /></p>
  
