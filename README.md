@@ -24,13 +24,16 @@ Here are some of the projects I've worked on:
 
 ## Github stats:
 
-<a href="https://github.com/mathanamathav">
+<table style="border-collapse: collapse;">
+   <tr>
+    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathanamathav&theme=tokyonight&border_radius=6"  display=block width=100% alt="mathanamathav"></td></p>
+    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathanamathav&theme=tokyonight&border_radius=6"  display=block width=100% alt="mathanamathav"></td></p>
+   </tr>
+</table>
+ 
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathanamathav&theme=tokyonight&border_radius=6"  display=block width=50% height=auto alt="1"></p>
+<p><img src="https://streak-stats.demolab.com?user=mathanamathav&theme=tokyonight&hide_border=true&border_radius=6" alt="mathanamathav" display=block width=50% /></p>
 
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathanamathav&layout=compact&hide_progress=true&theme=dark" alt="mathanamathav" /></p>
-
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mathanamathav&&show_icons=true&theme=dark" alt="mathanamathav" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanamathav&&theme=dark" alt="mathanamathav" /></p>
  
 ## Connect with me
 
@@ -40,3 +43,5 @@ Here are some of the projects I've worked on:
 <a href="https://kaggle.com/mathanamathavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathanamathavas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mathanamathava.s1690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mathana mathav a.s" height="30" width="40" /></a>
 </p>
+ 
+  
