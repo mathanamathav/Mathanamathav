@@ -31,8 +31,8 @@ Here are some of the projects I've worked on:
    </tr>
 </table>
  
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathanamathav&theme=tokyonight&border_radius=6"  display=block width=50% height=auto alt="1"></p>
-<p><img src="https://streak-stats.demolab.com?user=mathanamathav&theme=tokyonight&hide_border=true&border_radius=6" alt="mathanamathav" display=block width=50% /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathanamathav&theme=tokyonight&border_radius=6"  display=block width=75% height=auto alt="1"/></p>
+<p><img src="https://streak-stats.demolab.com?user=mathanamathav&theme=tokyonight&hide_border=true&border_radius=6" alt="mathanamathav" display=block width=75% height=auto /></p>
 
  
 ## Connect with me
