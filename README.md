@@ -4,7 +4,7 @@
 
 ## 🧐 About Me:
 
-> I'm a Software Engineer / Data Scientist at a startup. I enjoy diving into open-source projects and coming up with creative ways to tackle everyday problems, making life a little easier for myself and others.
+> I'm a Software Engineer / Data Scientist working at a startup. I enjoy diving into open-source projects and coming up with creative ways to tackle everyday problems, making life a little easier for myself and others.
 
 ## 💡 Projects:
 
